@@ -10,9 +10,7 @@ defmodule MakersWeekly.FeedFetcher do
 
   def fetch_all do
     parse_feed_data()
-    |> Enum.map(fn(sub) ->
-      Task.async(fn -> fetch(sub["feed_url"]) end)
-    end)
+    |> Enum.map(&Task.async(fn -> fetch(&1["feed_url"]) end))
     |> Enum.map(&Task.await(&1, :infinity))
   end
 
