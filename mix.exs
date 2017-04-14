@@ -32,6 +32,8 @@ defmodule MakersWeekly.Mixfile do
     [{:tesla, "~> 0.6.0"},
      {:ibrowse, "~> 4.2"},
      {:poison, ">= 1.0.0"},
-     {:feeder_ex, "~> 1.0.1"}]
+     {:timex, "~> 3.0"},
+     {:yaml_elixir, "~> 1.3.0"},
+     {:elixir_feed_parser, "~> 0.0.1"}]
   end
 end
