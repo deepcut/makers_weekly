@@ -1,0 +1,864 @@
+- title: GitHub Engineering
+  website: https://githubengineering.com/
+  icon_url: http://storage.googleapis.com/site-assets/HtOfh97mKFupH-scuR_ebe1XsXJQ9qHY5fLu1UemHyY_icon-15415c370be
+  feedly_id: feed/http://githubengineering.com/atom.xml
+  feed_url: http://githubengineering.com/atom.xml
+  velocity: 0.2
+  visual_url: http://storage.googleapis.com/site-assets/HtOfh97mKFupH-scuR_ebe1XsXJQ9qHY5fLu1UemHyY_visual-15415c370be
+  cover_color: 000000
+- title: Airbnb Engineering
+  website: http://nerds.airbnb.com
+  icon_url: http://storage.googleapis.com/site-assets/Dnd9La1qKbqFGqRD49V-AgNps_U_ekzwtUhy2u0NGcY_icon-15413da1b98
+  feedly_id: feed/http://nerds.airbnb.com/feed/
+  feed_url: http://nerds.airbnb.com/
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/Dnd9La1qKbqFGqRD49V-AgNps_U_ekzwtUhy2u0NGcY_visual-15413da1b98
+  cover_color: FFFFFF
+- title: Airbnb Engineering & Data Science
+  website: https://medium.com/airbnb-engineering?source=rss----53c7c27702d5---4
+  icon_url: http://storage.googleapis.com/site-assets/L7wIhUCxMpv1rnHHt-hM5_t5K7ai8CIwC8AYZD7xuus_icon-1532e8cd8c0
+  feedly_id: feed/https://medium.com/feed/airbnb-engineering
+  feed_url: https://medium.com/
+  velocity: 0.7
+  visual_url: http://storage.googleapis.com/site-assets/L7wIhUCxMpv1rnHHt-hM5_t5K7ai8CIwC8AYZD7xuus_visual-1532e8cd8c0
+  cover_color: FFFFFF
+- title: Engineering â The Asana Blog
+  website: https://blog.asana.com
+  icon_url: http://storage.googleapis.com/site-assets/NV3gH0A41QVOYMBr99WmpXQzywTUNUIbxH47dQL3G8w_icon-154160b43f5
+  feedly_id: feed/https://blog.asana.com/category/eng/feed/
+  feed_url: https://blog.asana.com/category/eng/
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/NV3gH0A41QVOYMBr99WmpXQzywTUNUIbxH47dQL3G8w_visual-154160b43f5
+  cover_color: 1F8DD6
+- title: Milliseconds Matter
+  website: https://blog.algolia.com
+  icon_url: http://storage.googleapis.com/site-assets/M2mdEkKojtBiEqnEvuwX724E_RuxdGqhnXVNfEvqbPY_icon-1542b881546
+  feedly_id: feed/https://blog.algolia.com/feed/
+  feed_url: https://blog.algolia.com/
+  velocity: 1.2
+  visual_url: http://storage.googleapis.com/site-assets/M2mdEkKojtBiEqnEvuwX724E_RuxdGqhnXVNfEvqbPY_visual-1542b881546
+  cover_color: 182848
+- title: Atlassian Developers Blog
+  website: https://developer.atlassian.com/blog/
+  icon_url: http://storage.googleapis.com/site-assets/wlcC9S8idEJ7QaMd93Aw8Gcnm15Yckt9dWFZze1iX-M_sicon-154139b5644
+  feedly_id: feed/https://developer.atlassian.com/blog/feed.xml
+  feed_url: https://developer.atlassian.com/blog/feed.xml
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/wlcC9S8idEJ7QaMd93Aw8Gcnm15Yckt9dWFZze1iX-M_svisual-154139b5644
+  cover_color: 
+- title: Think Big
+  website: http://www.bigeng.io/
+  icon_url: http://storage.googleapis.com/site-assets/l2s11JoVX3tM38ZBoI4OE3XziuMf-31QC0KOaBKbbEA_icon-15416edd3bc
+  feedly_id: feed/http://bigeng.io/rss
+  feed_url: http://bigeng.io/rss
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/l2s11JoVX3tM38ZBoI4OE3XziuMf-31QC0KOaBKbbEA_visual-15416edd3bc
+  cover_color: 000000
+- title: The BitTorrent Engineering Blog
+  website: http://engineering.bittorrent.com
+  icon_url: 
+  feedly_id: feed/http://engineering.bittorrent.com/feed/
+  feed_url: http://engineering.bittorrent.com/
+  velocity: 0.0
+  visual_url: 
+  cover_color: 
+- title: BlackRock Engineering
+  website: http://rockthecode.io
+  icon_url: 
+  feedly_id: feed/http://rockthecode.io/feed/
+  feed_url: http://rockthecode.io/
+  velocity: 0.0
+  visual_url: 
+  cover_color: 
+- title: Booking.com dev blog
+  website: https://blog.booking.com/
+  icon_url: http://storage.googleapis.com/site-assets/o0XDWs-uGMKMeOleJk4fWplVouuRDg1yaGedM8SpJUg_icon-153f6149cdd
+  feedly_id: feed/http://blog.booking.com/atom.xml
+  feed_url: http://blog.booking.com/atom.xml
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/o0XDWs-uGMKMeOleJk4fWplVouuRDg1yaGedM8SpJUg_visual-153f6149cdd
+  cover_color: 003580
+- title: Engineering at Canva
+  website: https://engineering.canva.com
+  icon_url: http://storage.googleapis.com/site-assets/RFfsrVvDFxkW3n6YvrhBtjXm1ExB-4TBSDtwd_mUbhE_icon-1500786dc54
+  feedly_id: feed/https://engineering.canva.com/rss
+  feed_url: https://engineering.canva.com/rss
+  velocity: 0.7
+  visual_url: http://storage.googleapis.com/site-assets/RFfsrVvDFxkW3n6YvrhBtjXm1ExB-4TBSDtwd_mUbhE_visual-1500786dc54
+  cover_color: 3F4552
+- title: Cloudflare Blog
+  website: https://blog.cloudflare.com/
+  icon_url: http://storage.googleapis.com/site-assets/nL_v3U-O0NcKG-slYgrjr8G9WWLkqNoQI83sFhqThV0_icon-154159e44e5
+  feedly_id: feed/http://blog.cloudflare.com/rss.xml
+  feed_url: http://blog.cloudflare.com/rss.xml
+  velocity: 4.7
+  visual_url: http://storage.googleapis.com/site-assets/nL_v3U-O0NcKG-slYgrjr8G9WWLkqNoQI83sFhqThV0_visual-154159e44e5
+  cover_color: FFFFFF
+- title: via @codeship
+  website: https://blog.codeship.com
+  icon_url: http://storage.googleapis.com/site-assets/Js_wxoGh7FDCy55J_tG1RuYFRn_cHoLwi9hSFBp0QcU_icon-15415deb4fe
+  feedly_id: feed/http://blog.codeship.io/feed
+  feed_url: http://blog.codeship.io/feed
+  velocity: 3.5
+  visual_url: http://storage.googleapis.com/site-assets/Js_wxoGh7FDCy55J_tG1RuYFRn_cHoLwi9hSFBp0QcU_visual-15415deb4fe
+  cover_color: FFFFFF
+- title: The official Dailymotion engineering blog
+  website: http://engineering.dailymotion.com/
+  icon_url: http://storage.googleapis.com/site-assets/TKk_6eWn44TToBp5eRoPhlZx0pLuWXG2Ild0fM9VPuc_icon-1512c921a84
+  feedly_id: feed/http://engineering.dailymotion.com/rss/
+  feed_url: http://engineering.dailymotion.com/rss/
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/TKk_6eWn44TToBp5eRoPhlZx0pLuWXG2Ild0fM9VPuc_visual-1512c921a84
+  cover_color: 0066DC
+- title: Engineering Blog â Databricks
+  website: https://databricks.com
+  icon_url: http://storage.googleapis.com/site-assets/inS-Jisj8QuzumIxP784rlzdNSqxMwn6Y3DJmkaXV7c_icon-15050b7bd5d
+  feedly_id: feed/https://databricks.com/blog/category/developer/feed
+  feed_url: https://databricks.com/blog/category/developer/feed
+  velocity: 2.3
+  visual_url: http://storage.googleapis.com/site-assets/inS-Jisj8QuzumIxP784rlzdNSqxMwn6Y3DJmkaXV7c_visual-15050b7bd5d
+  cover_color: C0DEED
+- title: DigitalOcean Blog
+  website: https://www.digitalocean.com/company/blog
+  icon_url: http://storage.googleapis.com/site-assets/GVDneuxPEhM6l2BPk6_6MttWde0wQJcxVLcuj3-tCGU_ficon-15412511336
+  feedly_id: feed/https://www.digitalocean.com/blog/feed.atom
+  feed_url: https://www.digitalocean.com/blog/feed.atom
+  velocity: 2.3
+  visual_url: http://storage.googleapis.com/site-assets/GVDneuxPEhM6l2BPk6_6MttWde0wQJcxVLcuj3-tCGU_fvisual-15412511336
+  cover_color: 
+- title: Discord Blog
+  website: https://blog.discordapp.com?source=rss----cb96a1f03649---4
+  icon_url: http://storage.googleapis.com/site-assets/ZOrkrVJ5IvuXwWi2FeVAkG4bejmlCarOaUBPhQdof1k_icon-1543713680c
+  feedly_id: feed/http://blog.discordapp.com/rss/
+  feed_url: http://blog.discordapp.com/rss/
+  velocity: 0.7
+  visual_url: http://storage.googleapis.com/site-assets/ZOrkrVJ5IvuXwWi2FeVAkG4bejmlCarOaUBPhQdof1k_visual-1543713680c
+  cover_color: C0DEED
+- title: Dropbox Tech Blog
+  website: https://dropboxtechblog.wordpress.com
+  icon_url: http://storage.googleapis.com/site-assets/mnzdLlskl8cNIGKO1JWOHA6x-PfgPRaR0irDeayXqkw_sicon-15413965367
+  feedly_id: feed/https://blogs.dropbox.com/tech/feed/
+  feed_url: https://blogs.dropbox.com/tech/
+  velocity: 1.2
+  visual_url: http://storage.googleapis.com/site-assets/mnzdLlskl8cNIGKO1JWOHA6x-PfgPRaR0irDeayXqkw_svisual-15413965367
+  cover_color: 
+- title: Evernote Tech Blog
+  website: https://blog.evernote.com/tech
+  icon_url: http://storage.googleapis.com/site-assets/Y1xu3uEFNhW8tIZ-IPJWEkbQD3DmoaWhTGbr5qRjgxA_sicon-154143ccfdc
+  feedly_id: feed/http://blog.evernote.com/tech/feed/
+  feed_url: http://blog.evernote.com/tech/
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/Y1xu3uEFNhW8tIZ-IPJWEkbQD3DmoaWhTGbr5qRjgxA_svisual-154143ccfdc
+  cover_color: 
+- title: Expedia Engineering Blog
+  website: https://techblog.expedia.com
+  icon_url: http://storage.googleapis.com/site-assets/kMYmlaVB9S-EHYalJdMJncglufg2Aqgn0x6TfJMqCRg_icon-14ffedeb867
+  feedly_id: feed/https://techblog.expedia.com/feed/
+  feed_url: https://techblog.expedia.com/
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/kMYmlaVB9S-EHYalJdMJncglufg2Aqgn0x6TfJMqCRg_visual-14ffedeb867
+  cover_color: C0DEED
+- title: Flipboard Engineering
+  website: http://engineering.flipboard.com
+  icon_url: http://storage.googleapis.com/site-assets/0RYnqwQil8wGWHjAC4XUuuhHNp1jp5u64CTOCInS1NY_sicon-15414dd7f79
+  feedly_id: feed/http://engineering.flipboard.com/feed.xml
+  feed_url: http://engineering.flipboard.com/feed.xml
+  velocity: 0.2
+  visual_url: http://storage.googleapis.com/site-assets/0RYnqwQil8wGWHjAC4XUuuhHNp1jp5u64CTOCInS1NY_svisual-15414dd7f79
+  cover_color: 
+- title: Heroku Engineering Blog
+  website: http://engineering.heroku.com/
+  icon_url: http://storage.googleapis.com/site-assets/l-Dzi2WzkyYHdNzj_H_KAQWc4SoA5g3QZoXjHms2WKU_icon-1529e7e637b
+  feedly_id: feed/http://engineering.heroku.com/feed.xml
+  feed_url: http://engineering.heroku.com/feed.xml
+  velocity: 0.2
+  visual_url: http://storage.googleapis.com/site-assets/l-Dzi2WzkyYHdNzj_H_KAQWc4SoA5g3QZoXjHms2WKU_visual-1529e7e637b
+  cover_color: 4C3A80
+- title: HomeAway Tech Home
+  website: https://tech.homeaway.com/
+  icon_url: 
+  feedly_id: feed/https://tech.homeaway.com/feed.xml
+  feed_url: https://tech.homeaway.com/feed.xml
+  velocity: 0.0
+  visual_url: 
+  cover_color: 
+- title: Code @ Hootsuite
+  website: http://code.hootsuite.com
+  icon_url: http://storage.googleapis.com/site-assets/AGu5HMtc0EnRR2dihNgK9ghVBaqvZRU1Y7fXc_DKjKc_icon-14aa207f93e
+  feedly_id: feed/http://code.hootsuite.com/feed/
+  feed_url: http://code.hootsuite.com/
+  velocity: 3.5
+  visual_url: http://storage.googleapis.com/site-assets/AGu5HMtc0EnRR2dihNgK9ghVBaqvZRU1Y7fXc_DKjKc_visual-14aa207f93e
+  cover_color: FFFFFF
+- title: Hashrocket
+  website: https://hashrocket.com/blog.rss
+  icon_url: http://storage.googleapis.com/site-assets/fAh-ziIX5C3ODdwauYhFK07nK658xzrUvrRc0o3xST8_icon-15331533011
+  feedly_id: feed/http://www.hashrocket.com/blog/rss
+  feed_url: http://www.hashrocket.com/blog/rss
+  velocity: 2.3
+  visual_url: http://storage.googleapis.com/site-assets/fAh-ziIX5C3ODdwauYhFK07nK658xzrUvrRc0o3xST8_visual-15331533011
+  cover_color: ECECED
+- title: The Imgur Blog Â» Engineering
+  website: http://blog.imgur.com
+  icon_url: 
+  feedly_id: feed/http://blog.imgur.com/category/eng/feed/
+  feed_url: http://blog.imgur.com/category/eng/
+  velocity: 0.0
+  visual_url: 
+  cover_color: 
+- title: tech-at-instacart
+  website: https://tech.instacart.com?source=rss----587883b5d2ee---4
+  icon_url: http://storage.googleapis.com/site-assets/Ox8KX8BPjOtwTiEqTTE2wZF1z65TIDBxGwLCn4QWlRQ_sicon-15433c43d2e
+  feedly_id: feed/http://tech.instacart.com/feed/
+  feed_url: http://tech.instacart.com/
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/Ox8KX8BPjOtwTiEqTTE2wZF1z65TIDBxGwLCn4QWlRQ_svisual-15433c43d2e
+  cover_color: 
+- title: Instagram Engineering
+  website: https://engineering.instagram.com?source=rss----37dc2a3034f2---4
+  icon_url: 
+  feedly_id: feed/https://engineering.instagram.com/feed
+  feed_url: https://engineering.instagram.com/feed
+  velocity: 0.0
+  visual_url: 
+  cover_color: 
+- title: Intent HQ Engineering blog
+  website: http://engineering.intenthq.com/
+  icon_url: http://storage.googleapis.com/site-assets/z-Bt3h-9GDE7uqhqC0NKPR1_7CS0miiDd6otdyW7cXc_icon-1500c76ef70
+  feedly_id: feed/http://engineering.intenthq.com/feed.xml
+  feed_url: http://engineering.intenthq.com/feed.xml
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/z-Bt3h-9GDE7uqhqC0NKPR1_7CS0miiDd6otdyW7cXc_visual-1500c76ef70
+  cover_color: FFFFFF
+- title: InVision Engineering Blog
+  website: http://engineering.invisionapp.com/index.xml
+  icon_url: http://storage.googleapis.com/site-assets/Clw-_NFUdjAyvuiimaiknGTKZPJq_fYyv59NSF0VrJI_icon-154391b8e8d
+  feedly_id: feed/http://engineering.invisionapp.com/index.xml
+  feed_url: http://engineering.invisionapp.com/index.xml
+  velocity: 0.5
+  visual_url: http://storage.googleapis.com/site-assets/Clw-_NFUdjAyvuiimaiknGTKZPJq_fYyv59NSF0VrJI_visual-154391b8e8d
+  cover_color: 333C4E
+- title: Kickstarter Engineering
+  website: https://kickstarter.engineering?source=rss----c5ef8826f270---4
+  icon_url: http://storage.googleapis.com/site-assets/m9URdDy3yjxzVE99PuYtVr248ZOY-qKvihWNakjGbBw_icon-1542d7166dc
+  feedly_id: feed/https://www.kickstarter.com/backing-and-hacking.atom
+  feed_url: https://www.kickstarter.com/backing-and-hacking.atom
+  velocity: 0.5
+  visual_url: http://storage.googleapis.com/site-assets/m9URdDy3yjxzVE99PuYtVr248ZOY-qKvihWNakjGbBw_visual-1542d7166dc
+  cover_color: EEF2EA
+- title: Intercom Engineering
+  website: https://engineering.intercom.io
+  icon_url: http://storage.googleapis.com/site-assets/Gs6oAyez5DLTVLevzMMYc3HTCIRv60PdF6M13Qs5icE_icon-1541cb73a78
+  feedly_id: feed/https://engineering.intercom.io/feed.xml
+  feed_url: https://engineering.intercom.io/feed.xml
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/Gs6oAyez5DLTVLevzMMYc3HTCIRv60PdF6M13Qs5icE_visual-1541cb73a78
+  cover_color: 22252A
+- title: LinkedIn Engineering
+  website: https://engineering.linkedin.com/blog.rss.html
+  icon_url: http://storage.googleapis.com/site-assets/I1kbbA_iZyKGfDDX8150AH9iZVyLRde_ZT6tYrenasU_icon-1542528e495
+  feedly_id: feed/https://engineering.linkedin.com/blog.rss
+  feed_url: https://engineering.linkedin.com/blog.rss
+  velocity: 1.2
+  visual_url: http://storage.googleapis.com/site-assets/I1kbbA_iZyKGfDDX8150AH9iZVyLRde_ZT6tYrenasU_visual-1542528e495
+  cover_color: DFDFDF
+- title: Lyft Engineering
+  website: https://eng.lyft.com?source=rss----25cd379abb8---4
+  icon_url: http://storage.googleapis.com/site-assets/od2eDbu_-o3imrOCL8uXXZtQKBsjfYfaEscKO5tVs8M_sicon-154124ada4e
+  feedly_id: feed/https://eng.lyft.com/feed
+  feed_url: https://eng.lyft.com/feed
+  velocity: 0.2
+  visual_url: http://storage.googleapis.com/site-assets/od2eDbu_-o3imrOCL8uXXZtQKBsjfYfaEscKO5tVs8M_svisual-154124ada4e
+  cover_color: 
+- title: MailChimp Developers BlogMailChimp Developers Blog
+  website: https://devs.mailchimp.com/blog
+  icon_url: http://storage.googleapis.com/site-assets/GebpVWC6cl_B4RFhdWc_8BnhIGRacrntr8HrXkUgMyc_sicon-15427caae63
+  feedly_id: feed/http://devs.mailchimp.com/blog/feed/
+  feed_url: http://devs.mailchimp.com/blog/
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/GebpVWC6cl_B4RFhdWc_8BnhIGRacrntr8HrXkUgMyc_svisual-15427caae63
+  cover_color: 
+- title: Medium Engineering
+  website: https://medium.engineering?source=rss----2817475205d3---4
+  icon_url: http://storage.googleapis.com/site-assets/s3pggXRKSMn5iy5rrbHeMMApnh9Vv_0xDYh6YsHw8hA_icon-1512d300cbe
+  feedly_id: feed/https://medium.com/feed/medium-eng
+  feed_url: https://medium.com/
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/s3pggXRKSMn5iy5rrbHeMMApnh9Vv_0xDYh6YsHw8hA_visual-1512d300cbe
+  cover_color: FFFFFF
+- title: Mixpanel Engineering
+  website: https://code.mixpanel.com
+  icon_url: 
+  feedly_id: feed/https://code.mixpanel.com/feed/
+  feed_url: https://code.mixpanel.com/
+  velocity: 0.0
+  visual_url: 
+  cover_color: 
+- title: Posts on The MongoDB Engineering Journal
+  website: https://engineering.mongodb.com/post/index.xml
+  icon_url: 
+  feedly_id: feed/https://engineering.mongodb.com/post/index.xml
+  feed_url: https://engineering.mongodb.com/post/index.xml
+  velocity: 0.2
+  visual_url: 
+  cover_color: 
+- title: Mozilla Hacks â the Web developer blog
+  website: https://hacks.mozilla.org
+  icon_url: http://storage.googleapis.com/site-assets/dPA20yDKj7MHgyIRjOX2OOk1cb-5A4xCS8qqqclHcbY_icon-15414d3215a
+  feedly_id: feed/http://hacks.mozilla.org/feed/
+  feed_url: http://hacks.mozilla.org/
+  velocity: 2.3
+  visual_url: http://storage.googleapis.com/site-assets/dPA20yDKj7MHgyIRjOX2OOk1cb-5A4xCS8qqqclHcbY_visual-15414d3215a
+  cover_color: 454545
+- title: The Netflix Tech Blog
+  website: http://techblog.netflix.com/
+  icon_url: http://storage.googleapis.com/site-assets/tIS4bIH0pLsrRvUnYVUgidjG6d8AUMGJ9KQl5OtMdqU_ficon-1541398e2dd
+  feedly_id: feed/http://techblog.netflix.com/feeds/posts/default
+  feed_url: http://techblog.netflix.com/feeds/posts/default
+  velocity: 1.2
+  visual_url: http://storage.googleapis.com/site-assets/tIS4bIH0pLsrRvUnYVUgidjG6d8AUMGJ9KQl5OtMdqU_fvisual-1541398e2dd
+  cover_color: 
+- title: Open
+  website: https://open.blogs.nytimes.com
+  icon_url: http://storage.googleapis.com/site-assets/qd_ZbG5-FtgMwz-PFAuNTvyWkTwxRN6k6AsldquAKlI_icon-15414401876
+  feedly_id: feed/http://open.blogs.nytimes.com/feed/
+  feed_url: http://open.blogs.nytimes.com/
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/qd_ZbG5-FtgMwz-PFAuNTvyWkTwxRN6k6AsldquAKlI_visual-15414401876
+  cover_color: 000000
+- title: Okta Developer
+  website: http://developer.okta.com
+  icon_url: 
+  feedly_id: feed/http://developer.okta.com/feed.xml
+  feed_url: http://developer.okta.com/feed.xml
+  velocity: 1.2
+  visual_url: 
+  cover_color: 
+- title: Ingredients
+  website: http://tech.opentable.com
+  icon_url: http://storage.googleapis.com/site-assets/k-uhrqgr0ZDzvf2J8KWaByqIxYzVUr_7ASVNaH7BCOU_sicon-15428d504a0
+  feedly_id: feed/http://tech.opentable.com/feed/
+  feed_url: http://tech.opentable.com/
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/k-uhrqgr0ZDzvf2J8KWaByqIxYzVUr_7ASVNaH7BCOU_svisual-15428d504a0
+  cover_color: 
+- title: Pivotal Engineering Journal
+  website: http://engineering.pivotal.io/index.xml
+  icon_url: http://storage.googleapis.com/site-assets/8uVL_SUW0ldhRzcuQMtQQFjQaK1POyo6Q_UwRU0v30Q_sicon-15418bbb75f
+  feedly_id: feed/http://feeds.feedburner.com/PivotalEngineeringJournal
+  feed_url: http://feeds.feedburner.com/PivotalEngineeringJournal
+  velocity: 1.2
+  visual_url: http://storage.googleapis.com/site-assets/8uVL_SUW0ldhRzcuQMtQQFjQaK1POyo6Q_UwRU0v30Q_svisual-15418bbb75f
+  cover_color: 
+- title: Giant Robots Smashing Into Other Giant Robots
+  website: https://robots.thoughtbot.com
+  icon_url: http://storage.googleapis.com/site-assets/IRVzqLsuoUK0H2nUbo0iyjvOdXWsi3qoOtq3AFqOWsw_sicon-15411a63210
+  feedly_id: feed/http://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots
+  feed_url: http://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots
+  velocity: 3.5
+  visual_url: http://storage.googleapis.com/site-assets/IRVzqLsuoUK0H2nUbo0iyjvOdXWsi3qoOtq3AFqOWsw_svisual-15411a63210
+  cover_color: 
+- title: Stories by Pinterest Engineering on Medium
+  website: https://medium.com/@Pinterest_Engineering?source=rss-ef81ef829bcb------2
+  icon_url: 
+  feedly_id: feed/https://medium.com/feed/@Pinterest_Engineering
+  feed_url: https://medium.com/
+  velocity: 1.2
+  visual_url: 
+  cover_color: 
+- title: PayPal Engineering Blog
+  website: https://www.paypal-engineering.com
+  icon_url: http://storage.googleapis.com/site-assets/oVfRVdf0bhmQfSPq6-hgjropsorzJxM_3lTO3jZS17U_icon-1542c6b3731
+  feedly_id: feed/https://www.paypal-engineering.com/feed/
+  feed_url: https://www.paypal-engineering.com/
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/oVfRVdf0bhmQfSPq6-hgjropsorzJxM_3lTO3jZS17U_visual-1542c6b3731
+  cover_color: C0DEED
+- title: Engineering at Quora on Quora
+  website: https://engineering.quora.com?ref=rss
+  icon_url: http://storage.googleapis.com/site-assets/e0PHU9L8RjaU1BvcGNJH7I8qRCnlla-tM8wlWDfuh7o_icon-1542daf3655
+  feedly_id: feed/https://engineering.quora.com/rss
+  feed_url: https://engineering.quora.com/rss
+  velocity: 0.2
+  visual_url: http://storage.googleapis.com/site-assets/e0PHU9L8RjaU1BvcGNJH7I8qRCnlla-tM8wlWDfuh7o_visual-1542daf3655
+  cover_color: FFFFFF
+- title: Segment Blog
+  website: https://segment.com/blog/atom.xml
+  icon_url: http://storage.googleapis.com/site-assets/Hi1kFgIxkKfpkjdcdAXVJ1QMmxQ7MZFXkr1MmZD8RYw_sicon-15427cf3d36
+  feedly_id: feed/https://segment.com/blog/atom.xml
+  feed_url: https://segment.com/blog/atom.xml
+  velocity: 5.8
+  visual_url: http://storage.googleapis.com/site-assets/Hi1kFgIxkKfpkjdcdAXVJ1QMmxQ7MZFXkr1MmZD8RYw_svisual-15427cf3d36
+  cover_color: 
+- title: Shopify Engineering - Engineering Blog
+  website: https://shopifyengineering.myshopify.com/blogs/engineering
+  icon_url: 
+  feedly_id: feed/http://feeds.feedburner.com/shopify-technology
+  feed_url: http://feeds.feedburner.com/shopify-technology
+  velocity: 0.0
+  visual_url: 
+  cover_color: 
+- title: Several People Are Coding
+  website: https://slack.engineering?source=rss----58820b6d8904---4
+  icon_url: http://storage.googleapis.com/site-assets/wTFdDUzHgVAx1MOkqBGdcubgX2J7WygXqWfXYh--m8Y_sicon-1541627aa46
+  feedly_id: feed/https://slack.engineering/feed
+  feed_url: https://slack.engineering/feed
+  velocity: 1.2
+  visual_url: http://storage.googleapis.com/site-assets/wTFdDUzHgVAx1MOkqBGdcubgX2J7WygXqWfXYh--m8Y_svisual-1541627aa46
+  cover_color: 
+- title: SoundCloud Backstage Blog
+  website: https://developers.soundcloud.com/blog.rss
+  icon_url: 
+  feedly_id: feed/http://developers.soundcloud.com/blog.rss
+  feed_url: http://developers.soundcloud.com/blog.rss
+  velocity: 1.2
+  visual_url: 
+  cover_color: 
+- title: Labs
+  website: https://labs.spotify.com
+  icon_url: http://storage.googleapis.com/site-assets/Fp07A3xot8ou1YkHEcEIcqZfLD6tgak2JalTZW4RVTE_icon-15414d76fc4
+  feedly_id: feed/http://labs.spotify.com/feed/
+  feed_url: http://labs.spotify.com/
+  velocity: 0.5
+  visual_url: http://storage.googleapis.com/site-assets/Fp07A3xot8ou1YkHEcEIcqZfLD6tgak2JalTZW4RVTE_visual-15414d76fc4
+  cover_color: FFFFFF
+- title: Square Corner Blog
+  website: https://medium.com/square-corner-blog?source=rss----3650599ae4e2---4
+  icon_url: 
+  feedly_id: feed/https://medium.com/feed/square-corner-blog
+  feed_url: https://medium.com/
+  velocity: 1.2
+  visual_url: 
+  cover_color: 
+- title: Squarespace Engineering
+  website: https://engineering.squarespace.com/
+  icon_url: 
+  feedly_id: feed/http://engineering.squarespace.com/blog?format=RSS
+  feed_url: http://engineering.squarespace.com/blog?format=RSS
+  velocity: 0.2
+  visual_url: 
+  cover_color: 
+- title: Stripe Blog
+  website: https://stripe.com/blog
+  icon_url: http://storage.googleapis.com/site-assets/GAM4hfUUjh6FfavtEZzhrAL8OrpjR-l6m6p2Zb5pcMQ_icon-1541422d257
+  feedly_id: feed/https://stripe.com/blog/feed.rss
+  feed_url: https://stripe.com/blog/feed.rss
+  velocity: 1.2
+  visual_url: http://storage.googleapis.com/site-assets/GAM4hfUUjh6FfavtEZzhrAL8OrpjR-l6m6p2Zb5pcMQ_visual-1541422d257
+  cover_color: E8E8E8
+- title: tech.taskrabbit.com
+  website: http://tech.taskrabbit.com/
+  icon_url: 
+  feedly_id: feed/http://tech.taskrabbit.com/feed.xml
+  feed_url: http://tech.taskrabbit.com/feed.xml
+  velocity: 1.2
+  visual_url: 
+  cover_color: 
+- title: Thumbtack Engineering
+  website: https://www.thumbtack.com/engineering
+  icon_url: http://storage.googleapis.com/site-assets/wP7K5bY1il9MXIC6BoyZOobigwL9CxmMmXfZvJ7onPw_icon-154075290a5
+  feedly_id: feed/https://www.thumbtack.com/engineering/feeds/all.atom.xml
+  feed_url: https://www.thumbtack.com/engineering/feeds/all.atom.xml
+  velocity: 1.2
+  visual_url: http://storage.googleapis.com/site-assets/wP7K5bY1il9MXIC6BoyZOobigwL9CxmMmXfZvJ7onPw_visual-154075290a5
+  cover_color: F27802
+- title: Product Engineering Blog
+  website: http://tech.transferwise.com/
+  icon_url: http://storage.googleapis.com/site-assets/WOmXQTy03IOFolUiILUTBlgozeZG-sJdzl64QN5pQKI_icon-15416e12fce
+  feedly_id: feed/http://tech.transferwise.com/rss/
+  feed_url: http://tech.transferwise.com/rss/
+  velocity: 0.5
+  visual_url: http://storage.googleapis.com/site-assets/WOmXQTy03IOFolUiILUTBlgozeZG-sJdzl64QN5pQKI_visual-15416e12fce
+  cover_color: 01C6FF
+- title: Tech at Trello
+  website: http://tech.trello.com/
+  icon_url: 
+  feedly_id: feed/https://trello.engineering/feed.xml
+  feed_url: https://trello.engineering/feed.xml
+  velocity: 1.2
+  visual_url: 
+  cover_color: 
+- title: Engineering in Twitch Blog on Medium
+  website: https://blog.twitch.tv/tagged/engineering?source=rss----3ae745429979--engineering
+  icon_url: 
+  feedly_id: feed/https://blog.twitch.tv/feed/tagged/engineering/?gi=baf64f9acf2d
+  feed_url: https://blog.twitch.tv/
+  velocity: 1.2
+  visual_url: 
+  cover_color: 
+- title: WalmartLabs
+  website: https://medium.com/walmartlabs?source=rss----905ea2b3d4d1---4
+  icon_url: 
+  feedly_id: feed/https://medium.com/feed/walmartlabs
+  feed_url: https://medium.com/
+  velocity: 0.2
+  visual_url: 
+  cover_color: 
+- title: Wix Engineering
+  website: http://blog.wix.engineering
+  icon_url: http://storage.googleapis.com/site-assets/aZQ290VKSs3pnA5ZGlulxxtXTdfQarGNj9S1wOSdlw8_icon-1542b87fbbb
+  feedly_id: feed/http://engineering.wix.com/feed/
+  feed_url: http://engineering.wix.com/
+  velocity: 0.2
+  visual_url: http://storage.googleapis.com/site-assets/aZQ290VKSs3pnA5ZGlulxxtXTdfQarGNj9S1wOSdlw8_visual-1542b87fbbb
+  cover_color: F5F8FA
+- title: Yahoo Engineering
+  website: https://yahooeng.tumblr.com/
+  icon_url: http://storage.googleapis.com/site-assets/6n3fLtSsZ1ZFBe0pbKTLAcn5B7S71JlC_k2_ZbbxQXo_sicon-15416274344
+  feedly_id: feed/http://yahooeng.tumblr.com/rss
+  feed_url: http://yahooeng.tumblr.com/rss
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/6n3fLtSsZ1ZFBe0pbKTLAcn5B7S71JlC_k2_ZbbxQXo_svisual-15416274344
+  cover_color: 
+- title: Zendesk Developer Blog
+  website: https://developer.zendesk.com/blog
+  icon_url: http://storage.googleapis.com/site-assets/-yysDIgsPkFcIdqzX-peXA2_MHyQlcQFv6g-BZN8UXU_icon-14e52cb930d
+  feedly_id: feed/https://developer.zendesk.com/blog.xml
+  feed_url: https://developer.zendesk.com/blog.xml
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/-yysDIgsPkFcIdqzX-peXA2_MHyQlcQFv6g-BZN8UXU_visual-14e52cb930d
+  cover_color: 78A300
+- title: Zenefits Engineering
+  website: https://engineering.zenefits.com
+  icon_url: http://storage.googleapis.com/site-assets/gllCOFoZZQNIJG0_3BFaQ0zNhFtAOzaAnRr3TOQ4bPU_sicon-154124acdd3
+  feedly_id: feed/https://engineering.zenefits.com/feed/
+  feed_url: https://engineering.zenefits.com/
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/gllCOFoZZQNIJG0_3BFaQ0zNhFtAOzaAnRr3TOQ4bPU_svisual-154124acdd3
+  cover_color: 
+- title: Zillow Engineering
+  website: https://www.zillow.com/engineering
+  icon_url: http://storage.googleapis.com/site-assets/kbWtNTMhtll-0qZ2Ey4B3waREPx8_lXuAaz8akwJ0SY_icon-153fb3254a6
+  feedly_id: feed/http://engineering.zillow.com/feed/
+  feed_url: http://engineering.zillow.com/
+  velocity: 0.2
+  visual_url: http://storage.googleapis.com/site-assets/kbWtNTMhtll-0qZ2Ey4B3waREPx8_lXuAaz8akwJ0SY_visual-153fb3254a6
+  cover_color: 1B5098
+- title: Google Developers Blog
+  website: http://developers.googleblog.com/
+  icon_url: http://storage.googleapis.com/site-assets/w5GYelXErp-3ku6oUz8t-anvmEYw2qvHSoZZ5eqQff4_sicon-15412f01d06
+  feedly_id: feed/http://code.google.com/feeds/updates.xml
+  feed_url: http://code.google.com/feeds/updates.xml
+  velocity: 5.8
+  visual_url: http://storage.googleapis.com/site-assets/w5GYelXErp-3ku6oUz8t-anvmEYw2qvHSoZZ5eqQff4_svisual-15412f01d06
+  cover_color: 
+- title: Heap Blog Â» Engineering Category Feed
+  website: https://blog.heapanalytics.com
+  icon_url: 
+  feedly_id: feed/https://blog.heapanalytics.com/engineering/feed/
+  feed_url: https://blog.heapanalytics.com/engineering/
+  velocity: 0.2
+  visual_url: 
+  cover_color: 
+- title: Vimeo Engineering Blog
+  website: https://medium.com/vimeo-engineering-blog?source=rss----92df1b631aeb---4
+  icon_url: 
+  feedly_id: feed/https://medium.com/feed/vimeo-engineering-blog
+  feed_url: https://medium.com/
+  velocity: 0.0
+  visual_url: 
+  cover_color: 
+- title: Engineering â Betterment
+  website: https://www.betterment.com
+  icon_url: 
+  feedly_id: feed/https://www.betterment.com/resources/topics/inside-betterment/engineering/feed/
+  feed_url: https://www.betterment.com/resources/topics/inside-betterment/engineering/
+  velocity: 0.0
+  visual_url: 
+  cover_color: 
+- title: Signal v. Noise
+  website: https://m.signalvnoise.com?source=rss----668e14b18fb1---4
+  icon_url: 
+  feedly_id: feed/https://signalvnoise.com/programming
+  feed_url: https://signalvnoise.com/programming
+  velocity: 2.3
+  visual_url: 
+  cover_color: 
+- title: Overflow
+  website: https://overflow.buffer.com
+  icon_url: http://storage.googleapis.com/site-assets/0fQYGU3emj9keVbrFCd5Ij0ZZ2m0BDqM1tFXJcvG-qE_sicon-15412ef69c7
+  feedly_id: feed/http://overflow.bufferapp.com/feed/
+  feed_url: http://overflow.bufferapp.com/
+  velocity: 1.2
+  visual_url: http://storage.googleapis.com/site-assets/0fQYGU3emj9keVbrFCd5Ij0ZZ2m0BDqM1tFXJcvG-qE_svisual-15412ef69c7
+  cover_color: 
+- title: WeWork Engineering
+  website: https://engineering.wework.com?source=rss----15aa793d8182---4
+  icon_url: 
+  feedly_id: feed/https://engineering.wework.com/feed
+  feed_url: https://engineering.wework.com/feed
+  velocity: 0.5
+  visual_url: 
+  cover_color: 
+- title: On The Flip Side
+  website: http://tech-blog.flipkart.net
+  icon_url: http://storage.googleapis.com/site-assets/qbJE3Udz8PF9a06MgUgWQ0q2qHgHRnBdFxkCb0N4yuU_sicon-154105c0b28
+  feedly_id: feed/http://tech-blog.flipkart.net/feed/
+  feed_url: http://tech-blog.flipkart.net/
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/qbJE3Udz8PF9a06MgUgWQ0q2qHgHRnBdFxkCb0N4yuU_svisual
+  cover_color: 
+- title: Technology
+  website: https://tech.jet.com
+  icon_url: 
+  feedly_id: feed/https://feeds.feedburner.com/jettech
+  feed_url: https://feeds.feedburner.com/jettech
+  velocity: 0.0
+  visual_url: 
+  cover_color: 
+- title: HelloTech
+  website: https://engineering.hellofresh.com?source=rss----ac51da0a699a---4
+  icon_url: 
+  feedly_id: feed/https://engineering.hellofresh.com/feed
+  feed_url: https://engineering.hellofresh.com/feed
+  velocity: 1.2
+  visual_url: 
+  cover_color: 
+- title: Nextdoor Engineering
+  website: https://engblog.nextdoor.com?source=rss----5e54f11cdfdf---4
+  icon_url: http://storage.googleapis.com/site-assets/7CGU8oYHbRG-r8Y1dkkzHDyEYR0BOVK9VPKHAtAvpsQ_ficon-15409f95c33
+  feedly_id: feed/https://engblog.nextdoor.com/feed/
+  feed_url: https://engblog.nextdoor.com/
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/7CGU8oYHbRG-r8Y1dkkzHDyEYR0BOVK9VPKHAtAvpsQ_fvisual-15409f95c33
+  cover_color: 
+- title: The Oculists
+  website: http://www.theoculists.com
+  icon_url: 
+  feedly_id: feed/http://www.theoculists.com/feed/
+  feed_url: http://www.theoculists.com/
+  velocity: 0.0
+  visual_url: 
+  cover_color: 
+- title: Gusto Engineering
+  website: http://engineering.gusto.com/
+  icon_url: http://storage.googleapis.com/site-assets/K9FtsKaZ5CRKCT0EOgwlh0waTT1hBoJORPy-jkumQxU_sicon-1541b4d90ed
+  feedly_id: feed/http://engineering.zenpayroll.com/rss/
+  feed_url: http://engineering.zenpayroll.com/rss/
+  velocity: 1.2
+  visual_url: http://storage.googleapis.com/site-assets/K9FtsKaZ5CRKCT0EOgwlh0waTT1hBoJORPy-jkumQxU_svisual-1541b4d90ed
+  cover_color: 
+- title: The Zapier Engineering Blog
+  website: https://zapier.com/engineering/
+  icon_url: http://storage.googleapis.com/site-assets/-Ynkn-nz8fFgq-6Gv4fm5JNOl4AoS3Zj0L4DndA6JPA_icon-15414b3e3bf
+  feedly_id: feed/https://zapier.com/engineering/feeds/latest/
+  feed_url: https://zapier.com/engineering/feeds/latest/
+  velocity: 1.2
+  visual_url: http://storage.googleapis.com/site-assets/-Ynkn-nz8fFgq-6Gv4fm5JNOl4AoS3Zj0L4DndA6JPA_visual-15414b3e3bf
+  cover_color: C0DEED
+- title: Stories by Engineering Yammer on Medium
+  website: https://medium.com/@yammereng?source=rss-234deff370e6------2
+  icon_url: http://storage.googleapis.com/site-assets/xMucElKOBoGVLKbg8QgOYKYNqg5DRBTIcQxJ9LlXBR0_icon-1512dbd0f95
+  feedly_id: feed/https://medium.com/feed/@yammereng
+  feed_url: https://medium.com/
+  velocity: 2.3
+  visual_url: http://storage.googleapis.com/site-assets/xMucElKOBoGVLKbg8QgOYKYNqg5DRBTIcQxJ9LlXBR0_visual-1512dbd0f95
+  cover_color: FFFFFF
+- title: Code as Craft
+  website: https://codeascraft.com
+  icon_url: http://storage.googleapis.com/site-assets/WzdI9ycg_7L135mo46T8lj5Ilsd2bmPUGTkPNNpbDR0_icon-15414c22e0e
+  feedly_id: feed/http://codeascraft.etsy.com/feed/
+  feed_url: http://codeascraft.etsy.com/
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/WzdI9ycg_7L135mo46T8lj5Ilsd2bmPUGTkPNNpbDR0_visual-15414c22e0e
+  cover_color: FFFFFF
+- title: foursquare-eng
+  website: https://engineering.foursquare.com?source=rss----3d158c042765---4
+  icon_url: http://storage.googleapis.com/site-assets/E69RxzfXqYGObBMf5CoS8k1eWq6ubcsj0z0bJLXPMSw_sicon-154139542ae
+  feedly_id: feed/http://engineering.foursquare.com/feed/
+  feed_url: http://engineering.foursquare.com/
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/E69RxzfXqYGObBMf5CoS8k1eWq6ubcsj0z0bJLXPMSw_svisual-154139542ae
+  cover_color: 
+- title: Amplitude Engineering
+  website: https://amplitude.engineering?source=rss----b3de3c3cfb5c---4
+  icon_url: 
+  feedly_id: feed/https://amplitude.engineering/feed
+  feed_url: https://amplitude.engineering/feed
+  velocity: 1.2
+  visual_url: 
+  cover_color: 
+- title: Engineers @ Optimizely
+  website: https://medium.com/engineers-optimizely?source=rss----81ef881aed8d---4
+  icon_url: 
+  feedly_id: feed/https://medium.com/feed/engineers-optimizely
+  feed_url: https://medium.com/
+  velocity: 0.0
+  visual_url: 
+  cover_color: 
+- title: tech.adroll.com
+  website: http://tech.adroll.com
+  icon_url: http://storage.googleapis.com/site-assets/BMSGbFDUMFHbKIOsHLPVLQeISXJlByqOnY7absTEKAI_icon-14a9d0fd8fa
+  feedly_id: feed/http://tech.adroll.com/feed.xml
+  feed_url: http://tech.adroll.com/feed.xml
+  velocity: 0.2
+  visual_url: http://storage.googleapis.com/site-assets/BMSGbFDUMFHbKIOsHLPVLQeISXJlByqOnY7absTEKAI_visual-14a9d0fd8fa
+  cover_color: EEEEEE
+- title: 500px Engineering Blog
+  website: https://developers.500px.com?source=rss----5d9282daaaa1---4
+  icon_url: http://storage.googleapis.com/site-assets/RUuDm7HQs6vbe23xKPsjftTaNXU4R6duhVddr1hlhfE_sicon-1542dfa6149
+  feedly_id: feed/http://developers.500px.com/feed
+  feed_url: http://developers.500px.com/feed
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/RUuDm7HQs6vbe23xKPsjftTaNXU4R6duhVddr1hlhfE_svisual-1542dfa6149
+  cover_color: 
+- title: OkCupid Engineering
+  website: https://tech.okcupid.com/
+  icon_url: 
+  feedly_id: feed/https://tech.okcupid.com/rss/
+  feed_url: https://tech.okcupid.com/rss/
+  velocity: 0.5
+  visual_url: 
+  cover_color: 
+- title: Cloud Engineering
+  website: http://cloudengineering.autodesk.com/blog/
+  icon_url: http://storage.googleapis.com/site-assets/giJcDZWuAO5noAk40Rd8DsH_sKCW0XNE1US9ocHkoXs_sicon-1542dfa969e
+  feedly_id: feed/http://cloudengineering.autodesk.com/blog/atom.xml
+  feed_url: http://cloudengineering.autodesk.com/blog/atom.xml
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/giJcDZWuAO5noAk40Rd8DsH_sKCW0XNE1US9ocHkoXs_svisual-1542dfa969e
+  cover_color: 
+- title: Auth0 Blog
+  website: https://auth0.com/blog/
+  icon_url: 
+  feedly_id: feed/http://feeds.feedburner.com/auth0
+  feed_url: http://feeds.feedburner.com/auth0
+  velocity: 5.8
+  visual_url: 
+  cover_color: 
+- title: Clever Engineering Blog
+  website: https://engineering.clever.com
+  icon_url: http://storage.googleapis.com/site-assets/yZCHIj36q1QXGdXm1f03aO-W8sIFy8fYBBc6LOnsuf0_sicon-15431d671dd
+  feedly_id: feed/http://engineering.clever.com/rss
+  feed_url: http://engineering.clever.com/rss
+  velocity: 0.2
+  visual_url: http://storage.googleapis.com/site-assets/yZCHIj36q1QXGdXm1f03aO-W8sIFy8fYBBc6LOnsuf0_svisual-15431d671dd
+  cover_color: 
+- title: eHarmony Engineering
+  website: http://www.eharmony.com/engineering
+  icon_url: http://storage.googleapis.com/site-assets/1wggnsSfmVjhnyiS7sZX89JFwcJaQpSShzhQ36uT-II_sicon-1541de138c2
+  feedly_id: feed/http://www.eharmony.com/engineering/feed/
+  feed_url: http://www.eharmony.com/engineering/
+  velocity: 0.2
+  visual_url: http://storage.googleapis.com/site-assets/1wggnsSfmVjhnyiS7sZX89JFwcJaQpSShzhQ36uT-II_svisual-1541de138c2
+  cover_color: 
+- title: Chartbeat Engineering Blog
+  website: http://engineering.chartbeat.com
+  icon_url: http://storage.googleapis.com/site-assets/NNqkOyYZ8C7AO_7MybL23oewXvkBOA8rxbn02pkUuUo_icon-14a885ddc94
+  feedly_id: feed/http://engineering.chartbeat.com/feed/
+  feed_url: http://engineering.chartbeat.com/
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/NNqkOyYZ8C7AO_7MybL23oewXvkBOA8rxbn02pkUuUo_visual-14a885ddc94
+  cover_color: 1F3442
+- title: Tumblr Engineering
+  website: https://engineering.tumblr.com/
+  icon_url: http://storage.googleapis.com/site-assets/1nAZ0cDR4cGDt8-efU2-LEj01W2M_rzdkgJp101IDsw_sicon-15414ddb475
+  feedly_id: feed/http://engineering.tumblr.com/rss
+  feed_url: http://engineering.tumblr.com/rss
+  velocity: 1.2
+  visual_url: http://storage.googleapis.com/site-assets/1nAZ0cDR4cGDt8-efU2-LEj01W2M_rzdkgJp101IDsw_svisual-15414ddb475
+  cover_color: 
+- title: Indeed Engineering Blog
+  website: http://engineering.indeedblog.com
+  icon_url: http://storage.googleapis.com/site-assets/VNggfBRdnuJKlA6-3wxLf5k3oqEUBKfQJu7ngJXbQr8_sicon-15428d4fbf1
+  feedly_id: feed/http://engineering.indeedblog.com/feed/
+  feed_url: http://engineering.indeedblog.com/
+  velocity: 0.2
+  visual_url: http://storage.googleapis.com/site-assets/VNggfBRdnuJKlA6-3wxLf5k3oqEUBKfQJu7ngJXbQr8_svisual-15428d4fbf1
+  cover_color: 
+- title: engineering.hackerearth.com
+  website: http://engineering.hackerearth.com
+  icon_url: http://storage.googleapis.com/site-assets/tNz5QiEHPRCn2wn8LPNbBcYHRtl0ROIHNjfZYt1FVGU_icon-1542ba05380
+  feedly_id: feed/http://engineering.hackerearth.com/rss
+  feed_url: http://engineering.hackerearth.com/rss
+  velocity: 0.5
+  visual_url: http://storage.googleapis.com/site-assets/tNz5QiEHPRCn2wn8LPNbBcYHRtl0ROIHNjfZYt1FVGU_visual-1542ba05380
+  cover_color: 11607D
+- title: Driven By Code
+  website: https://www.drivenbycode.com
+  icon_url: http://storage.googleapis.com/site-assets/6khROee9e-icifuHDZT_GFljyFy5sw7Y_8yPaY7dtfY_sicon-1542dfa7e77
+  feedly_id: feed/http://www.drivenbycode.com/feed/
+  feed_url: http://www.drivenbycode.com/
+  velocity: 1.2
+  visual_url: http://storage.googleapis.com/site-assets/6khROee9e-icifuHDZT_GFljyFy5sw7Y_8yPaY7dtfY_svisual-1542dfa7e77
+  cover_color: 
+- title: #F80046
+  website: http://devblog.songkick.com
+  icon_url: 
+  feedly_id: feed/http://devblog.songkick.com/feed/
+  feed_url: http://devblog.songkick.com/
+  velocity: 0.0
+  visual_url: 
+  cover_color: 
+- title: Google Research Blog
+  website: http://research.googleblog.com/
+  icon_url: http://storage.googleapis.com/site-assets/pWClOtlZIG9udPVjdsMP8XbYc2AFwEu_nwunfGkdSEs_sicon-1541393d983
+  feedly_id: feed/http://googleresearch.blogspot.com/atom.xml
+  feed_url: http://googleresearch.blogspot.com/atom.xml
+  velocity: 5.8
+  visual_url: http://storage.googleapis.com/site-assets/pWClOtlZIG9udPVjdsMP8XbYc2AFwEu_nwunfGkdSEs_svisual-1541393d983
+  cover_color: 
+- title: We build Envato
+  website: http://webuild.envato.com/
+  icon_url: 
+  feedly_id: feed/http://webuild.envato.com/atom.xml
+  feed_url: http://webuild.envato.com/atom.xml
+  velocity: 0.2
+  visual_url: 
+  cover_color: 
+- title: YouTube Engineering and Developers Blog
+  website: http://youtube-eng.googleblog.com/
+  icon_url: 
+  feedly_id: feed/http://feeds.feedburner.com/YouTubeEngDevBlog
+  feed_url: http://feeds.feedburner.com/YouTubeEngDevBlog
+  velocity: 0.0
+  visual_url: 
+  cover_color: 
+- title: DNSimple Blog
+  website: https://blog.dnsimple.com
+  icon_url: 
+  feedly_id: feed/http://blog.dnsimple.com/feed.xml
+  feed_url: http://blog.dnsimple.com/feed.xml
+  velocity: 2.3
+  visual_url: 
+  cover_color: 
+- title: code.flickr.com
+  website: http://code.flickr.net
+  icon_url: http://storage.googleapis.com/site-assets/I8ZJo_pyJ7CcJlFrjiU75lrXGkrySiIUAqw-cqzTU-4_sicon-15411a70370
+  feedly_id: feed/http://code.flickr.net/feed/
+  feed_url: http://code.flickr.net/
+  velocity: 0.0
+  visual_url: http://storage.googleapis.com/site-assets/I8ZJo_pyJ7CcJlFrjiU75lrXGkrySiIUAqw-cqzTU-4_svisual-15411a70370
+  cover_color: 
+- title: Engineering â Stack Overflow Blog
+  website: https://stackoverflow.blog
+  icon_url: 
+  feedly_id: feed/https://stackoverflow.blog/engineering/feed/
+  feed_url: https://stackoverflow.blog/engineering/
+  velocity: 0.2
+  visual_url: 
+  cover_color: 
+- title: Plataformatec Blog
+  website: http://blog.plataformatec.com.br
+  icon_url: http://storage.googleapis.com/site-assets/xsAJelR87KQVvNGkff-j2KShifwuu4gHgvUT5p0gYC0_icon-15413df8aad
+  feedly_id: feed/http://feeds.feedburner.com/PlataformaBlog
+  feed_url: http://feeds.feedburner.com/PlataformaBlog
+  velocity: 1.2
+  visual_url: http://storage.googleapis.com/site-assets/xsAJelR87KQVvNGkff-j2KShifwuu4gHgvUT5p0gYC0_visual-15413df8aad
+  cover_color: 1A1B1F
+- title: Atomic Spin
+  website: https://spin.atomicobject.com
+  icon_url: 
+  feedly_id: feed/http://feeds.feedblitz.com/atomicspin
+  feed_url: http://feeds.feedblitz.com/atomicspin
+  velocity: 5.8
+  visual_url: 
+  cover_color: 
+- title: Big Nerd Ranch
+  website: https://www.bignerdranch.com/
+  icon_url: 
+  feedly_id: feed/https://www.bignerdranch.com/feed.xml
+  feed_url: https://www.bignerdranch.com/feed.xml
+  velocity: 3.5
+  visual_url: 
+  cover_color: 

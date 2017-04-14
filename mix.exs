@@ -15,7 +15,7 @@ defmodule MakersWeekly.Mixfile do
   # Type "mix help compile.app" for more information
   def application do
     # Specify extra applications you'll use from Erlang/Elixir
-    [extra_applications: [:logger],
+    [extra_applications: [:logger, :ibrowse],
      mod: {MakersWeekly.Application, []}]
   end
 
@@ -29,6 +29,9 @@ defmodule MakersWeekly.Mixfile do
   #
   # Type "mix help deps" for more examples and options
   defp deps do
-    []
+    [{:tesla, "~> 0.6.0"},
+     {:ibrowse, "~> 4.2"},
+     {:poison, ">= 1.0.0"},
+     {:feeder_ex, "~> 1.0.1"}]
   end
 end
