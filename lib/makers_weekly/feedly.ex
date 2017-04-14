@@ -54,7 +54,7 @@ defmodule MakersWeekly.Feedly do
         website: sub["website"],
         icon_url: sub["iconUrl"],
         feedly_id: sub["id"],
-        feed_url: (sub["id"] |> String.split("feed/") |> Enum.at(1)),
+        feed_url: (Regex.replace(~r/^feed\//, sub["id"], "")),
         velocity: sub["velocity"],
         visual_url: sub["visualUrl"],
         cover_color: sub["coverColor"]
